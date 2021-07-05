@@ -1,0 +1,28 @@
+{
+  "name": "EA-E2E",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.6.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^1.6.2"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juveriashariff-pager/EA-E2E.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juveriashariff-pager/EA-E2E/issues"
+  },
+  "homepage": "https://github.com/juveriashariff-pager/EA-E2E#readme"
+}
