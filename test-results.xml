@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="25.5520" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-19T04:36:46" tests="0" file="cypress/integration/ui/smoke_test/smokeTest.ts" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="smoke test for EA" timestamp="2021-10-19T04:36:46" tests="1" time="25.5520" failures="0">
+    <testcase name="smoke test for EA smoke test for EA IT" time="25.5520" classname="smoke test for EA IT">
+    </testcase>
+  </testsuite>
+</testsuites>
